@@ -79,13 +79,8 @@
       "anchors": [
         {
           "anchor": "Home",
-          "href": "https://docs.tavio.io/index",
+          "href": "https://jcc-ebe33163.mintlify.app/index",
           "icon": "home"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://docs.tavio.io/blog",
-          "icon": "newspaper"
         }
       ]
     }
